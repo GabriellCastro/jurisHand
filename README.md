@@ -29,6 +29,7 @@
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [x] React Native + Expo CLI
+- [x] Typescript
 - [x] Lottie
 - [x] Context
 - [x] Css
